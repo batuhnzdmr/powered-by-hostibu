@@ -1,0 +1,20 @@
+/** HOSTIBU **/
+#hostibu {
+    z-index: 99999;
+    display: flex;
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+    justify-content: center;
+  }
+  
+#hostibu img {
+    height: 3rem;
+    border: none !important;
+}
+
+@media (min-width: 1200px) {
+    #hostibu {
+        justify-content: flex-start;
+        padding-left: 5rem;
+    }
+}
