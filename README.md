@@ -13,6 +13,13 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 
 ---
 
+---
+
+## 🛠️ TODO
+[ ] Beyaz arkaplan ve siyah arkaplan için iki farklı 'Powered by HOSTIBU' yazısı.
+
+---
+
 ## 🔧 Installation
 
 1. Add the following HTML code to the bottom of your website.
@@ -27,7 +34,7 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 ```
 
 > [!NOTE]
-> Either in the footer section or just before the closing </body> tag (if your site doesn't have a footer
+> Either in the footer section or just before the closing </body> tag (if your site doesn't have a footer).
 
 2. Then include this CSS in your stylesheet:
 
@@ -96,10 +103,9 @@ This project is licensed under the [MIT](LICENSE) License.
 
 ---
 
-## 💼 Powered by [Hostibu](https://hostibu.com)
+## 💼 Powered by [HOSTIBU](https://hostibu.com)
 
 > This project is proudly powered by **Hostibu**. Show your support by displaying the badge on your site.
 
 ## ❤️ Made by [batuhnzdmr](https://github.com/batuhnzdmr)
 > This project made by Batuhan Özdemir.
-> Website: https://batuhnzdmr.me
