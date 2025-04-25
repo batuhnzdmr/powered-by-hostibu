@@ -60,7 +60,7 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 > You can also upload it to a different location by adjusting the HTML code accordingly.
 
 > [!TIP]
-> [Click here](src/assets/img/powered-by-hostibu.svg) to install image.
+> [Click here](BADGE.md) to install badge image.
 
 ---
 
