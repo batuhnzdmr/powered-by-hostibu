@@ -1,4 +1,4 @@
-# 🚀 powered-by-hostibu
+# Powered by HOSTIBU
 
 A lightweight snippet developed and maintained by **Hostibu**, this component allows you to easily add a "Powered by Hostibu" badge to your website. Fully responsive and easy to integrate, it's perfect for showcasing your hosting provider while maintaining a clean design.
 
