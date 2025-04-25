@@ -13,13 +13,6 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 
 ---
 
----
-
-## 🛠️ TODO
-[ ] Beyaz arkaplan ve siyah arkaplan için iki farklı 'Powered by HOSTIBU' yazısı.
-
----
-
 ## 🔧 Installation
 
 1. Add the following HTML code to the bottom of your website.
@@ -94,6 +87,12 @@ html/
 │       └── powered-by-hostibu.svg
 ├── index.html
 ```
+
+---
+
+## 🛠️ TODO
+- [x] 'Powered by HOSTIBU' image for dark backgrounds.
+- [ ] 'Powered by HOSTIBU' image for light backgrounds.
 
 ---
 
