@@ -60,13 +60,13 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 > You can also upload it to a different location by adjusting the HTML code accordingly.
 
 > [!TIP]
-> [Click here]() to install image.
+> [Click here](src/assets/img/powered-by-hostibu.svg) to install image.
 
 ---
 
 ## 💡 Example Usage
 
-You can find an example usage inside the `src/` folder.  
+You can find an example usage inside the [src](src/) folder.  
 Feel free to modify and adapt the design to fit your website’s layout and theme.
 
 ---
@@ -79,22 +79,14 @@ Feel free to modify and adapt the design to fit your website’s layout and them
 ## 📂 Project Structure
 
 ```
-powered-by-hostibu/
+html/
 ├── assets/
 │   └── css/
 │       └── custom.css
 │   └── img/
 │       └── powered-by-hostibu.svg
-├── src/
-│   └── example.html
-├── README.md
+├── index.html
 ```
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
