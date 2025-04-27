@@ -4,12 +4,12 @@
 
 ---
 
-# Light Brand - For dark theme
+# Light Brand - For dark themes
 
 <img src="/img/dark/powered-by-hostibu.svg" style="width: 100%;">
 
 ---
 
-# Dark Brand - For light theme
+# Dark Brand - For light themes
 
 <img src="/img/light/powered-by-hostibu.svg" style="width: 100%;">
