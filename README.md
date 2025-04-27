@@ -66,7 +66,7 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 
 ## 💡 Example Usage
 
-You can find an example usage inside the [src](src/) folder.  
+You can find an example usage inside the [example](/example) folder.  
 Feel free to modify and adapt the design to fit your website’s layout and theme.
 
 ---
