@@ -90,12 +90,6 @@ html/
 
 ---
 
-## 🛠️ TODO
-- [x] 'Powered by HOSTIBU' image for dark backgrounds.
-- [ ] 'Powered by HOSTIBU' image for light backgrounds.
-
----
-
 ## 🛡️ License
 
 This project is licensed under the [MIT](LICENSE) License.
