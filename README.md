@@ -36,9 +36,9 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 #hostibu {
     z-index: 99999;
     display: flex;
+    justify-content: center;
     margin-top: 2rem;
     padding-bottom: 2rem;
-    justify-content: center;
 }
 
 #hostibu img {
