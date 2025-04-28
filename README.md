@@ -21,7 +21,7 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 <!-- HOSTIBU -->
 <div id="hostibu">
     <a href="https://hostibu.com" target="_blank">
-        <img src="/assets/img/powered-by-hostibu.svg" alt="Hosted by Hostibu.">
+        <img src="/assets/img/powered-by-hostibu.svg" alt="Hostibu tarafından barındırılıyor.">
     </a>
 </div>
 ```
