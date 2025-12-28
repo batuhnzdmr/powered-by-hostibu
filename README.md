@@ -1,19 +1,24 @@
 # Powered by HOSTIBU
 
-A lightweight snippet developed and maintained by **Hostibu**, this component allows you to easily add a "Powered by Hostibu" badge to your website. Fully responsive and easy to integrate, it's perfect for showcasing your hosting provider while maintaining a clean design.
-
 ---
 
-## 🧩 Features
+A lightweight snippet developed and maintained by **Hostibu**, this component allows you to easily add a "Powered by Hostibu" badge to your website. Fully responsive and easy to integrate, it's perfect for showcasing your hosting provider while maintaining a clean design.
+
+## 🌟 Features
 
 - Simple HTML & CSS integration
 - Responsive and modern layout
 - SEO-friendly and brand-visible
 - Open-source and free to use
 
+
+## 🧪 Live Demo
+[Gölbaşı Platform](https://golbasiplatform.com)
+
+
 ---
 
-## 🔧 Installation
+## 🚀 Installation
 
 1. Add the following HTML code to the bottom of your website.
 
@@ -62,8 +67,6 @@ A lightweight snippet developed and maintained by **Hostibu**, this component al
 > [!TIP]
 > [Click here](BADGE.md) to install badge image.
 
----
-
 ## 💡 Example Usage
 
 You can find an example usage inside the [example](/example) folder.  
@@ -71,12 +74,7 @@ Feel free to modify and adapt the design to fit your website’s layout and them
 
 ---
 
-## 🧪 Live Demo
-[Gölbaşı Platform](https://golbasiplatform.com)
-
----
-
-## 📂 Project Structure
+### 📂 Project Structure
 
 ```
 html/
@@ -88,17 +86,11 @@ html/
 ├── index.html
 ```
 
----
-
-## 🛡️ License
+### 🛡️ License
 
 This project is licensed under the [MIT](LICENSE) License.
 
 ---
 
-## 💼 Powered by [HOSTIBU](https://hostibu.com)
-
-> This project is proudly powered by **Hostibu**. Show your support by displaying the badge on your site.
-
-## ❤️ Made by [batuhnzdmr](https://github.com/batuhnzdmr)
-> This project made by Batuhan Özdemir.
+##### 💼 Powered by [HOSTIBU](https://github.com/hostibu)
+##### ❤️ Made by [batuhnzdmr](https://github.com/batuhnzdmr)
